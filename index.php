@@ -55,6 +55,7 @@
             <div class="sidebar-heading">
                 Interfaz
             </div>
+            <p>18:56:32 13/12/2021</p>
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
